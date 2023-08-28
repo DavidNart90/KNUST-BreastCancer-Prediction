@@ -1,0 +1,686 @@
+age,sex,category,religion,Ethnicity,Edu.level,Occup,marrital statis,PN History,FM History,Breastfeed,Agebirth,HIV status,self b exam,do b exam,how Often,if yes,p.scree,many times,ever screen,outcome,phistopathology,if yes.1,"t,given",smoking ,stick day,if not,alcohol,contra use,type,method used,follow up,next follow,outcome.1,condition
+35,female,private,christian,northern,primary,trader,single,no,no,0,32,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+43,female,private,christian,northern,jhs,other,married,no,no,0,19,negative,yes,yes,monthly,yes,yes,3,no,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+48,female,private,christian,akan,jhs,other,married,no,no,0,18,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+74,female,staff,christian,northern,tertiary,other,married,no,no,18,24,negative,yes,yes,monthly,yes,yes,10,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,mammogram,no,no,normal,no lump seen
+36,female,private,christian,akan,shs,trader,married,no,no,18,26,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,lump seen in the left breast
+46,female,dependant,other,northern,jhs,other,married,no,no,18,18,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+40,female,private,christian,akan,jhs,trader,married,no,no,0,19,positive,no,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,cbe,no,no,normal,normal breast
+26,female,student,christian,ewe,tertiary,other,single,no,no,0,no,negative,no,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no
+46,female,private,christian,akan,tertiary,health workers,married,no,no,22,33,negative,no,no,not applicable,no,yes,0,no,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+33,female,private,christian,akan,tertiary,other,married,no,no,0,32,negative,yes,no,not applicable,no,yes,1,no,abnormal,yes,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+60,female,private,christian,northern,non,trader,divorced,yes,no,18,23,no,yes,yes,monthly,yes,yes,2,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+34,female,private,christian,akan,jhs,trader,married,no,no,0,no,no,yes,yes,monthly,yes,yes,1,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,palpation done with no mass 
+23,female,private,christian,akan,tertiary,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+22,female,private,christian,akan,shs,trader,single,no,no,0,no,no,no,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+35,male,staff,christian,akan,shs,other,married,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+42,female,private,christian,akan,jhs,trader,single,no,no,0,20,negative,no,yes,monthly,yes,yes,1,no,abnormal,no,no,no,no,not applicable,no,yes,yes,depo,cbe,no,no,normal,normal breast
+65,female,private,christian,akan,non,unemployed,divorced,no,no,0,20,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+37,female,private,christian,akan,shs,trader,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+47,female,staff,christian,akan,tertiary,administrator,married,no,no,0,40,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+25,female,private,christian,akan,tertiary,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+59,female,staff,christian,akan,tertiary,banker,married,yes,no,24,27,negative,yes,yes,quarterly,yes,yes,2,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,tiny lumps in the left breast
+36,female,private,christian,northern,jhs,trader,married,no,no,0,26,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,complain of painful left breast
+24,female,private,muslim,northern,non,health workers,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+60,female,private,christian,akan,shs,other,widow,no,no,0,27,negative,yes,yes,monthly,yes,yes,2,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+38,female,private,christian,akan,tertiary,health workers,married,no,no,0,27,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+27,female,private,christian,akan,tertiary,other,married,no,no,0,no,no,no,no,not applicable,yes,yes,1,no,normal,no,no,no,no,not applicable,no,no,no,depo,no,no,no,normal,normal breast
+32,female,private,christian,akan,shs,trader,married,no,no,0,23,no,yes,yes,monthly,yes,yes,2,no,normal,no,no,no,no,not applicable,no,no,no,depo,no,no,no,normal,no lump seen
+29,female,private,christian,ga,tertiary,teacher,single,yes,no,0,no,no,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+25,female,staff,christian,akan,tertiary,administrator,single,no,no,0,no,no,yes,yes,annualy,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+51,female,private,christian,northern,non,trader,widow,no,no,18,27,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+50,female,staff,christian,akan,primary,other,married,no,no,0,20,negative,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,pills,no,no,no,normal,no lump seen
+46,female,private,christian,northern,jhs,trader,divorced,yes,no,18,24,no,yes,yes,quarterly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,yes,family planning,no,no,no,normal,no lump seen
+48,female,private,christian,akan,non,trader,single,no,no,16,37,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+28,female,private,christian,northern,non,trader,single,no,no,0,no,negative,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,pills,no,no,no,normal,no lump seen
+54,female,staff,christian,akan,non,other,married,no,no,18,18,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+37,female,private,christian,akan,shs,trader,divorced,yes,no,24,30,no,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,yes,depo,no,no,no,abnormal,rashes around areola
+27,female,staff,christian,akan,tertiary,administrator,single,no,no,0,no,no,yes,yes,monthly,yes,yes,2,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+24,female,private,muslim,northern,shs,trader,married,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast examination
+25,female,private,muslim,northern,jhs,trader,married,no,no,0,24,negative,yes,yes,monthly,yes,yes,0,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no abnormalities seen
+52,female,private,christian,akan,jhs,trader,married,no,no,0,no,no,no,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+45,female,private,christian,akan,non,trader,single,no,no,0,18,no,no,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+48,female,staff,christian,ewe,tertiary,administrator,married,no,yes,0,38,negative,yes,no,not applicable,yes,yes,1,no,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+64,female,dependant,christian,akan,primary,other,married,yes,no,0,20,negative,yes,yes,quarterly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+50,female,private,christian,northern,jhs,trader,married,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+47,female,private,christian,akan,primary,unemployed,single,no,no,18,33,negative,yes,yes,quarterly,yes,yes,1,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+48,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+20,female,student,christian,akan,tertiary,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,pills,cbe,no,no,normal,no lump seen
+41,female,private,christian,akan,tertiary,health workers,married,no,no,24,30,negative,no,yes,quarterly,yes,yes,1,no,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no abnormalities seen
+56,female,private,christian,akan,primary,trader,divorced,no,no,0,no,no,no,no,not applicable,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no lump nodes detected
+46,female,private,christian,akan,tertiary,trader,divorced,no,no,12,30,negative,yes,yes,monthly,yes,yes,10,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+34,female,private,christian,akan,tertiary,trader,single,no,no,0,no,negative,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes
+45,female,private,christian,akan,shs,trader,married,no,no,0,24,no,no,no,not applicable,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,no,no,no,normal,no lymph nodes
+38,female,private,christian,akan,non,trader,single,no,no,0,20,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+42,female,staff,christian,northern,tertiary,health workers,married,no,no,24,30,negative,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,yes,implant,no,no,no,normal,no lump seen
+23,female,private,muslim,northern,shs,other,single,yes,no,0,15,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,implant,cbe,no,no,abnormal,pains in both breast/ lump detected
+27,female,staff,christian,northern,tertiary,health workers,single,yes,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no lump nodes detected
+74,female,staff,christian,akan,jhs,unemployed,widow,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,pains in the left breast
+54,female,staff,christian,akan,tertiary,teacher,widow,yes,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,mammogram,no,normal,no lymph nodes palpated 
+47,female,staff,christian,ewe,tertiary,other,married,no,no,0,25,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,BTL,cbe,no,no,normal,no lymp nodes palpated
+41,female,private,christian,northern,tertiary,trader,married,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no abnormalities seen
+24,female,private,christian,northern,tertiary,health workers,single,yes,no,0,no,no,yes,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,lump detected in the right breast
+39,female,staff,christian,northern,shs,other,married,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no lump seen
+58,female,dependant,christian,northern,tertiary,teacher,married,no,no,0,no,no,yes,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+23,female,private,christian,akan,tertiary,health workers,single,yes,no,0,no,negative,yes,yes,quarterly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+32,female,private,muslim,northern,non,teacher,married,yes,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+36,female,private,muslim,northern,tertiary,teacher,married,no,no,0,35,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities seen
+51,female,staff,christian,akan,jhs,other,widow,no,no,0,20,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+25,female,dependant,christian,northern,tertiary,unemployed,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+45,female,staff,christian,northern,non,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+42,female,staff,christian,akan,jhs,other,married,no,no,24,26,no,no,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no lump seen
+40,female,staff,christian,northern,tertiary,trader,married,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+21,female,private,christian,northern,tertiary,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+52,female,private,christian,northern,non,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,discharge from the left breast(whitish)
+52,female,staff,christian,northern,tertiary,health workers,married,yes,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities seen
+19,female,private,christian,akan,shs,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,6 months,normal,no abnormalities seen
+20,female,dependant,christian,akan,shs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+38,female,dependant,christian,akan,tertiary,banker,married,yes,yes,0,27,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+45,female,staff,christian,northern,non,other,divorced,no,no,0,15,no,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,yes,depo,cbe,no,no,normal,no abnormalities seen
+37,female,private,christian,akan,jhs,trader,married,no,no,0,no,negative,no,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,cbe,no,no,normal,no lump seen
+17,female,dependant,christian,akan,shs,other,single,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,lump found in the left breast
+41,female,private,christian,akan,primary,trader,married,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,no,no,no,normal,no lump palpated
+19,female,private,other,akan,shs,unemployed,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+55,female,private,christian,akan,tertiary,trader,married,no,no,0,30,no,yes,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,no,no,no,normal,normal breast exam
+59,female,staff,christian,northern,non,other,married,no,no,0,no,no,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+18,female,student,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,suspected lump in the mid left breast
+21,female,private,christian,northern,tertiary,other,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+57,female,private,christian,akan,shs,other,married,no,no,16,28,negative,yes,yes,monthly,yes,yes,1,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+61,female,staff,christian,akan,tertiary,other,married,no,no,4,28,negative,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+53,female,private,muslim,northern,jhs,other,married,no,no,18,20,no,yes,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+58,female,private,christian,ewe,tertiary,health workers,married,no,no,18,28,negative,yes,yes,monthly,yes,yes,1,no,normal,no,no,no,no,not applicable,no,yes,no,no,no,no,no,normal,normal breast exam
+26,female,private,muslim,northern,shs,unemployed,single,no,no,36,22,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,jadelle,no,no,no,normal,no lymph nodes palpated
+24,female,private,muslim,northern,primary,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,postinor 2,no,no,no,normal,normal breast exam
+26,female,private,christian,akan,tertiary,other,married,yes,no,24,19,negative,yes,yes,monthly,yes,yes,1,cbe,abnormal,no,no,no,no,not applicable,no,no,yes,lydia ,no,no,no,normal,no lymph nodes palpated
+35,female,staff,christian,ewe,tertiary,health workers,married,no,no,0,no,negative,yes,yes,monthly,yes,yes,1,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+53,female,private,muslim,northern,non,trader,single,no,no,21,31,negative,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,lump palpated at the right breast
+37,female,private,christian,ga,tertiary,other,single,yes,yes,24,31,negative,yes,no,not applicable,no,yes,2,no,normal,no,no,no,no,not applicable,no,no,yes,family planning,cbe,no,no,normal,no lymph nodes palpated
+70,female,private,christian,akan,primary,unemployed,divorced,no,no,18,25,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+72,female,private,christian,akan,primary,trader,widow,no,no,24,35,no,yes,yes,monthly,yes,yes,4,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,normal with no masses palpated
+74,female,private,christian,akan,non,trader,widow,no,no,24,15,negative,yes,yes,monthly,yes,yes,2,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,"pain in both breast, lump found in the left breast"
+56,female,private,christian,ewe,non,trader,married,no,no,36,no,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,there is piting when the breast is touched
+22,female,private,christian,akan,tertiary,other,single,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+41,female,staff,christian,akan,tertiary,health workers,married,no,no,0,27,negative,yes,yes,monthly,yes,yes,3,no,normal,no,no,no,no,not applicable,no,no,yes,implant,no,no,no,normal,normal breast exam
+36,female,private,christian,northern,shs,trader,married,no,yes,24,29,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,no,no,no,normal,no lymph nodes palpated
+23,female,private,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+24,female,private,christian,akan,tertiary,unemployed,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+33,female,private,christian,akan,jhs,trader,single,no,no,24,21,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+28,female,private,christian,akan,shs,trader,single,no,yes,0,no,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,cbe,no,no,normal,no lymph nodes palpated
+64,female,private,christian,akan,primary,other,married,no,no,24,22,no,yes,yes,monthly,yes,yes,3,no,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no lymph nodes palpated
+42,female,private,christian,akan,shs,trader,married,no,no,18,22,negative,yes,yes,monthly,yes,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,2 years,normal,no lymph nodes palpated
+32,female,private,muslim,northern,tertiary,other,married,no,no,14,24,negative,yes,yes,quarterly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,iud,cbe,no,2 years,normal,no lymph nodes palpated
+57,female,private,muslim,northern,primary,trader,married,no,no,18,22,negative,yes,yes,monthly,yes,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,normal with no masses palpated
+57,female,staff,muslim,northern,tertiary,other,married,no,no,0,24,no,yes,yes,annualy,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no lymph nodes palpated
+19,female,student,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,yes,1,no,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,normal with no masses palpated
+35,female,private,christian,akan,tertiary,unemployed,married,no,yes,0,34,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,lydia ,cbe,no,6 months,normal,no lymph nodes palpated
+44,female,private,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,normal nipples with no discharge
+55,female,private,christian,akan,primary,trader,married,no,no,24,34,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal nipples with no discharge
+52,female,private,christian,akan,jhs,other,single,no,no,20,22,negative,no,no,not applicable,no,yes,1,cbe,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no lymph nodes palpated
+57,female,private,christian,akan,primary,trader,divorced,no,yes,18,27,no,yes,yes,monthly,yes,yes,2,no,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,2 years,normal,normal breast exam
+46,female,staff,christian,akan,tertiary,teacher,married,no,no,24,31,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+50,female,private,christian,akan,primary,trader,divorced,no,no,24,29,negative,yes,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+27,female,private,christian,ewe,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,pills,cbe,no,6 months,normal,no lymph nodes palpated
+28,female,private,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+45,female,dependant,christian,northern,non,trader,married,no,yes,24,no,negative,yes,yes,monthly,yes,yes,1,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,no,no,2 years,normal,no lymph nodes palpated
+50,female,private,christian,akan,jhs,trader,divorced,no,no,12,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,2 years,normal,no lymph nodes palpated
+58,female,private,christian,akan,primary,unemployed,widow,no,no,0,20,no,yes,yes,not applicable,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+17,female,private,christian,akan,shs,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,abnormal,left breast has sores and itches above the nipple
+27,female,private,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+19,female,private,muslim,northern,primary,other,single,no,no,17,17,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+45,female,private,muslim,northern,non,trader,married,no,no,36,21,negative,no,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+42,female,private,christian,akan,shs,trader,single,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+47,female,private,muslim,northern,non,trader,married,no,no,24,no,no,yes,yes,annualy,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,2 years,normal,no lymph nodes palpated
+71,female,dependant,christian,akan,tertiary,unemployed,widow,no,no,6,22,negative,yes,yes,quarterly,yes,yes,4,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+27,female,private,muslim,northern,jhs,unemployed,married,no,no,0,27,negative,yes,yes,monthly,yes,yes,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,2 years,normal,no lymph nodes palpated
+26,female,private,christian,akan,tertiary,health workers,single,no,no,0,no,negative,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+37,female,private,christian,akan,tertiary,trader,married,no,no,24,25,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,redish swollen at right breast
+40,female,private,christian,akan,tertiary,health workers,married,no,no,3,36,negative,yes,yes,quarterly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+45,female,private,muslim,northern,primary,trader,widow,no,no,24,20,negative,yes,yes,quarterly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+62,female,private,christian,akan,primary,trader,divorced,no,no,18,25,no,yes,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+21,female,student,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,yes,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,whitish discharge from the right nipple lump detected at the nipple
+23,female,private,muslim,northern,non,trader,divorced,no,no,24,19,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+40,female,dependant,christian,northern,tertiary,other,married,no,yes,0,no,no,no,no,not applicable,no,yes,0,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+39,female,private,christian,akan,tertiary,other,married,no,yes,24,23,negative,yes,yes,monthly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,yellowish nipple discharge of both
+56,female,private,christian,akan,primary,trader,divorced,no,no,24,30,negative,yes,yes,monthly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+62,female,private,christian,akan,tertiary,teacher,married,no,yes,9,41,negative,yes,yes,monthly,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+28,female,private,christian,akan,tertiary,other,married,no,no,18,23,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,implant,no,no,no,normal,no lymph nodes palpated
+33,female,private,christian,ewe,tertiary,teacher,single,no,yes,18,23,negative,yes,yes,quarterly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+29,female,private,christian,akan,jhs,unemployed,married,no,no,24,25,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,"pain in the left breast, scan requested"
+39,female,private,christian,akan,tertiary,trader,married,no,no,24,27,negative,yes,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+36,female,staff,christian,northern,tertiary,administrator,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+24,female,private,christian,northern,shs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+22,female,private,muslim,northern,non,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+19,female,private,muslim,northern,shs,trader,married,no,no,0,no,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+63,female,dependant,christian,akan,shs,unemployed,married,no,no,24,28,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,udi,cbe,no,2 years,normal,no lymph nodes palpated
+42,female,staff,christian,akan,shs,health workers,married,no,no,12,28,positive,yes,yes,annualy,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+45,female,private,muslim,northern,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+20,female,student,christian,northern,tertiary,other,single,no,no,0,no,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,abnormal,suspected tiny lump in the mid upper breast
+28,female,staff,other,northern,non,unemployed,married,yes,yes,18,32,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+21,female,student,christian,northern,tertiary,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+29,female,private,christian,northern,shs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+22,female,student,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+25,female,private,christian,northern,jhs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+25,female,private,christian,northern,shs,trader,single,no,yes,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+34,female,private,muslim,northern,jhs,trader,married,no,no,0,no,no,no,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+27,female,staff,christian,northern,tertiary,administrator,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+27,female,private,christian,northern,tertiary,other,married,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+20,female,student,christian,northern,tertiary,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+57,female,dependant,christian,northern,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+22,female,student,christian,northern,tertiary,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+50,female,private,christian,northern,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+26,female,private,christian,akan,shs,trader,single,no,no,9,20,negative,yes,yes,monthly,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no lymph nodes palpated
+27,female,private,christian,northern,tertiary,health workers,married,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+34,female,dependant,muslim,northern,non,other,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+26,female,private,muslim,northern,shs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+60,female,dependant,christian,northern,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+24,female,private,christian,northern,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,abnormal,hard mass in the right breast with milky discharge from the nipple
+35,female,private,christian,northern,tertiary,teacher,married,yes,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+30,female,private,christian,northern,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+39,female,private,christian,northern,shs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+23,female,private,christian,northern,tertiary,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+49,female,private,christian,northern,jhs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+77,female,private,christian,northern,tertiary,other,widow,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+21,female,private,muslim,northern,jhs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+30,female,private,christian,northern,tertiary,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,"palpation lump palpated on the right breast, no nipple discharge "
+43,female,private,christian,northern,tertiary,banker,single,yes,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+18,female,private,christian,northern,shs,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+46,female,private,christian,northern,jhs,trader,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+31,female,private,christian,northern,tertiary,health workers,married,yes,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+25,female,private,christian,northern,tertiary,trader,married,yes,yes,0,no,no,no,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+21,female,student,christian,northern,tertiary,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+49,female,private,christian,northern,jhs,trader,married,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+48,female,dependant,christian,northern,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+44,female,dependant,christian,northern,shs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal with no masses palpated
+55,female,private,christian,akan,primary,trader,single,no,no,18,18,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,no,cbe,no,no,normal,no lump seen
+20,female,student,christian,northern,tertiary,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+39,female,staff,muslim,northern,tertiary,health workers,married,no,no,24,28,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,iud,cbe,no,no,normal,no masses palpated
+16,female,dependant,christian,northern,shs,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+27,female,staff,christian,northern,tertiary,administrator,married,no,no,0,26,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+44,female,private,christian,northern,jhs,trader,married,no,no,24,18,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+19,female,student,muslim,akan,tertiary,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+19,female,student,christian,akan,tertiary,other,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+25,female,staff,muslim,northern,tertiary,other,single,yes,no,0,no,no,yes,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+27,female,student,muslim,northern,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+54,female,private,christian,akan,primary,unemployed,single,no,no,10,28,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+37,female,staff,christian,northern,shs,other,single,no,no,0,24,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+17,female,private,christian,akan,shs,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,lump palpated at the right breast 
+42,female,dependant,christian,northern,tertiary,banker,single,no,no,0,no,no,no,no,not applicable,no,no,0,cbe,not applicable,yes,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+21,female,student,christian,northern,tertiary,other,single,no,yes,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,lump palpated in the left breast
+36,female,dependant,christian,northern,non,trader,married,no,no,24,24,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+26,female,private,christian,northern,tertiary,other,married,no,no,3,25,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+40,female,private,christian,northern,jhs,trader,single,no,no,20,20,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+37,female,private,christian,northern,shs,trader,married,yes,no,12,17,negative,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+35,female,staff,christian,northern,tertiary,administrator,single,no,no,0,no,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+20,female,student,christian,northern,tertiary,other,single,yes,no,0,no,no,yes,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,2 years,normal,no masses palpated
+18,female,private,christian,northern,tertiary,other,single,no,no,0,no,negative,yes,yes,quarterly,yes,yes,0,cbe,normal,yes,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,abnormal,lump at the right breast and was referred to the ultrascan people for scan
+19,female,student,christian,ga,tertiary,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,lump felt at the right breast
+25,female,student,christian,ewe,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+23,female,student,christian,northern,tertiary,other,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+56,female,private,christian,northern,tertiary,trader,married,no,no,24,30,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+41,female,private,christian,northern,tertiary,teacher,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,lump palpated in the left breast
+56,female,staff,christian,northern,tertiary,unemployed,married,no,no,14,27,no,no,no,not applicable,no,no,0,cbe,normal,yes,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+29,female,dependant,christian,northern,jhs,trader,single,no,no,0,19,no,no,no,not applicable,no,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no  masses palpated
+59,female,staff,christian,akan,tertiary,banker,married,no,no,18,25,negative,yes,yes,quarterly,yes,yes,4,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+37,female,dependant,christian,northern,tertiary,health workers,married,no,yes,0,27,no,yes,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+37,female,private,muslim,northern,shs,trader,married,no,no,0,no,no,yes,yes,not applicable,yes,yes,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no lymph nodes palpated
+31,female,private,christian,northern,tertiary,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,no,no,no,no,abnormal,lymph nodes palpated
+29,female,private,muslim,northern,tertiary,other,married,no,yes,14,27,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,6 months,abnormal,abnormalities detected
+21,female,private,christian,northern,shs,trader,single,no,no,0,no,no,no,yes,quarterly,yes,yes,2,cbe,abnormal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,abnormal,mass palpated on the right breast around the areola
+21,female,student,christian,northern,tertiary,other,single,yes,no,0,no,no,yes,yes,annualy,yes,yes,1,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+72,female,private,christian,northern,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no abnormalities detected
+53,female,staff,christian,northern,tertiary,teacher,married,yes,no,0,no,no,no,no,not applicable,no,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no lymph nodes palpated
+51,female,private,christian,northern,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no masses palpated
+38,female,private,other,northern,non,teacher,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lymph nodes palpated
+18,male,student,christian,akan,tertiary,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+50,female,private,christian,akan,jhs,trader,married,no,no,0,24,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal, normal breast examination
+34,female,private,muslim,northern,tertiary,other,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+46,female,staff,christian,akan,primary,other,married,no,no,0,17,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,depo,cbe,no,no,normal,normal breast exam
+29,female,private,christian,northern,shs,trader,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+57,female,private,christian,northern,primary,trader,married,yes,no,0,no,no,no,no,not applicable,no,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no abnormalities detected
+53,female,dependant,christian,northern,jhs,trader,married,no,no,0,no,no,yes,yes,annualy,no,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no lymph nodes palpated
+27,female,private,christian,northern,tertiary,health workers,single,yes,no,0,no,no,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no lymph nodes palpated
+57,female,private,christian,northern,non,trader,married,no,no,0,20,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+46,female,staff,christian,northern,jhs,other,married,no,no,0,17,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+42,female,staff,christian,northern,tertiary,trader,married,no,no,18,27,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,2 years,normal,no lymph nodes palpated
+55,female,staff,christian,northern,tertiary,administrator,married,no,no,0,no,no,no,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+24,female,student,christian,northern,tertiary,other,single,yes,no,0,no,negative,yes,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,lump found in  both breast
+64,female,staff,christian,northern,shs,other,married,yes,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+38,female,student,christian,northern,non,teacher,married,no,no,0,29,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+26,female,private,christian,northern,tertiary,trader,married,yes,no,0,no,no,no,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,lymph nodes palpated
+35,female,private,christian,akan,non,trader,married,no,yes,0,25,no,no,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+60,female,private,christian,northern,shs,trader,single,yes,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+16,female,private,christian,northern,shs,other,single,yes,no,0,no,no,no,yes,not applicable,yes,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+36,female,staff,christian,northern,non,banker,married,no,no,8,35,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+80,female,private,christian,akan,non,trader,widow,no,yes,24,20,negative,no,no,annualy,yes,yes,2,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,abnormal,pains in the right breast
+20,female,private,christian,northern,non,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+52,female,private,christian,northern,non,unemployed,single,no,no,0,no,no,yes,yes,quarterly,no,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+15,female,private,christian,northern,jhs,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+16,female,dependant,christian,northern,non,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,lump palpated at the left breast
+14,female,private,christian,northern,jhs,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,painful left breast
+75,female,dependant,christian,akan,non,other,married,no,no,0,19,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+24,female,private,muslim,northern,jhs,trader,married,no,no,0,24,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,normal clinical breast examination
+22,female,student,christian,northern,tertiary,other,single,yes,no,0,no,no,no,yes,quarterly,no,yes,1,ultrasound,abnormal,no,no,no,no,not applicable,no,no,no,no,cbe,usg,6 months,abnormal,lump in the left breast
+22,female,private,christian,northern,shs,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,right breast looks bigger than the left breast
+23,female,student,christian,northern,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+16,female,dependant,christian,northern,shs,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+55,female,staff,christian,akan,primary,other,widow,no,no,10,15,no,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast exam
+31,female,private,christian,northern,tertiary,teacher,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal  breast examination
+47,female,private,muslim,northern,non,trader,single,no,no,18,18,no,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+32,female,private,christian,akan,jhs,trader,single,no,no,15,27,negative,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+30,female,private,christian,akan,tertiary,teacher,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+52,female,staff,christian,akan,tertiary,administrator,married,no,no,24,35,negative,yes,yes,quarterly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+57,male,private,christian,akan,shs,other,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+39,female,private,christian,akan,jhs,trader,divorced,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+18,female,student,christian,akan,shs,other,single,no,no,0,no,no,no,yes,annualy,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+37,female,staff,christian,akan,tertiary,other,married,no,no,14,29,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+38,female,private,christian,northern,shs,trader,single,no,no,0,no,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump palpated
+32,female,private,christian,akan,tertiary,unemployed,married,no,no,6,28,negative,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+50,female,private,muslim,akan,primary,trader,married,no,no,24,no,no,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+23,female,student,christian,akan,tertiary,unemployed,single,no,no,0,no,negative,yes,yes,quarterly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+34,female,staff,christian,akan,tertiary,administrator,single,no,no,0,no,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+29,female,student,christian,northern,tertiary,other,single,yes,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+65,female,dependant,christian,akan,tertiary,other,married,no,yes,4,38,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+39,female,private,christian,akan,tertiary,banker,married,no,no,14,27,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump palpated
+30,female,student,muslim,northern,tertiary,unemployed,single,no,no,0,no,negative,yes,yes,quarterly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+23,female,private,christian,akan,tertiary,health workers,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+44,female,private,christian,ewe,jhs,trader,married,no,no,30,30,negative,yes,yes,quarterly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+24,female,private,christian,akan,tertiary,health workers,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no discharges and lump see
+40,female,private,other,northern,non,teacher,married,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no  masses palpated
+38,female,private,muslim,northern,non,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+48,female,private,christian,akan,jhs,trader,married,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+29,female,private,muslim,northern,jhs,trader,married,no,no,24,25,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+28,female,private,muslim,northern,shs,unemployed,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+57,female,private,christian,northern,primary,trader,single,yes,no,24,21,no,yes,yes,annualy,yes,yes,1,cbe,abnormal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+56,female,private,christian,northern,jhs,trader,married,no,yes,24,19,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+46,female,private,christian,northern,tertiary,trader,widow,no,no,24,28,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+37,female,private,muslim,northern,non,unemployed,married,no,no,24,26,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+53,female,private,christian,northern,jhs,trader,married,no,no,18,21,no,yes,yes,annualy,yes,yes,1,cbe,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+19,female,private,muslim,northern,jhs,trader,single,no,no,0,no,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+26,female,private,muslim,northern,jhs,trader,married,no,no,0,no,no,no,yes,annualy,yes,yes,1,cbe,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+52,female,private,christian,northern,non,unemployed,single,no,yes,12,50,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+40,female,private,christian,northern,jhs,trader,married,no,yes,24,22,negative,yes,yes,annualy,yes,yes,8,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+47,female,private,christian,northern,shs,trader,married,no,no,24,20,no,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+64,female,private,christian,northern,jhs,trader,married,no,no,12,20,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,lump seen in the left breast refer to M O
+45,female,private,christian,northern,jhs,trader,married,no,no,12,27,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+53,female,private,christian,northern,jhs,trader,married,no,no,18,35,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+46,female,private,christian,northern,primary,trader,single,no,no,24,22,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+50,female,private,christian,northern,jhs,trader,married,no,no,24,22,no,yes,yes,annualy,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+36,female,private,christian,northern,jhs,trader,married,no,no,12,31,no,yes,yes,annualy,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+58,female,private,christian,northern,jhs,unemployed,single,no,yes,24,21,no,yes,yes,annualy,yes,yes,1,cbe,abnormal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+46,female,private,christian,northern,primary,trader,married,no,no,24,23,no,yes,no,not applicable,no,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+46,female,private,christian,northern,non,trader,single,no,no,24,25,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+45,female,private,christian,northern,non,trader,single,no,no,18,25,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+50,female,private,christian,northern,non,other,widow,no,no,24,22,no,yes,yes,quarterly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+52,female,private,christian,northern,non,trader,married,no,no,36,17,no,yes,yes,annualy,yes,yes,3,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+46,female,private,christian,northern,tertiary,teacher,married,no,no,12,25,no,yes,yes,annualy,yes,yes,10,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+31,female,private,christian,northern,non,trader,married,no,no,24,26,no,no,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+39,female,private,christian,northern,non,trader,married,no,no,36,16,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+45,female,private,muslim,northern,non,unemployed,married,no,no,24,14,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,the left breast contains foreign items on the body of the breasr but painless.
+35,female,private,christian,northern,jhs,trader,divorced,no,no,12,21,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+34,female,private,muslim,northern,shs,unemployed,married,no,yes,24,27,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+54,female,private,christian,northern,jhs,trader,single,no,no,24,21,no,yes,yes,annualy,yes,yes,4,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+44,female,private,christian,northern,jhs,trader,married,no,no,24,22,no,yes,yes,monthly,yes,yes,3,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+52,female,private,christian,northern,primary,trader,married,no,no,12,25,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+46,female,private,christian,northern,jhs,trader,married,no,no,18,36,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+31,female,private,christian,northern,tertiary,other,married,no,no,12,29,no,yes,yes,annualy,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+56,female,private,christian,northern,non,other,widow,no,no,24,22,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+40,female,private,muslim,northern,primary,trader,married,no,no,42,35,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+52,female,private,christian,northern,jhs,trader,married,no,no,24,21,no,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+52,female,private,christian,northern,jhs,trader,married,no,no,24,25,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+45,female,private,christian,northern,jhs,trader,married,no,no,18,25,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,normal shape of breast but have some rashes on the skin of the breast 
+39,female,private,christian,northern,shs,trader,married,no,no,12,24,negative,yes,yes,monthly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+47,female,private,christian,northern,primary,trader,married,no,no,0,no,no,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+46,female,private,christian,northern,jhs,trader,married,no,no,18,22,no,no,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+38,female,private,christian,northern,non,trader,married,no,no,36,19,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+42,female,private,christian,northern,jhs,trader,married,no,no,24,22,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+53,female,private,christian,northern,jhs,trader,married,no,no,24,28,negative,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,yes,implant,cbe,no,no,normal,no masses palpated
+75,female,private,christian,northern,non,trader,divorced,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+30,female,private,christian,northern,shs,unemployed,single,no,no,0,no,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+53,female,private,christian,akan,shs,trader,married,no,no,18,20,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+36,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+40,female,private,christian,akan,jhs,trader,married,no,no,12,16,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+76,female,private,christian,akan,non,unemployed,single,no,no,24,25,positive,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+38,female,private,christian,akan,shs,trader,single,no,no,0,no,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+70,female,private,christian,akan,non,unemployed,single,no,no,12,18,negative,yes,yes,quarterly,yes,yes,2,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+43,female,private,christian,akan,jhs,trader,married,yes,no,24,26,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+57,female,private,christian,akan,tertiary,teacher,single,no,no,12,25,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+69,female,private,christian,akan,primary,trader,married,no,no,12,18,negative,yes,yes,quarterly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+63,female,private,christian,akan,primary,trader,single,no,no,9,18,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+46,female,private,christian,akan,tertiary,teacher,single,no,no,15,24,negative,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+44,female,private,christian,northern,jhs,trader,married,yes,yes,24,20,negative,yes,yes,annualy,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+27,female,private,christian,northern,shs,unemployed,single,no,no,18,25,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+42,female,private,christian,northern,tertiary,teacher,married,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+40,female,private,christian,northern,tertiary,teacher,married,no,no,12,27,negative,yes,yes,quarterly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+41,female,private,christian,northern,tertiary,other,married,no,no,7,27,negative,yes,yes,monthly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+17,female,private,christian,akan,shs,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+50,female,private,christian,akan,primary,trader,married,no,no,6,18,no,yes,yes,quarterly,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+53,female,private,christian,akan,tertiary,teacher,married,no,no,24,28,no,yes,yes,quarterly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal, normal breast examination
+42,female,private,muslim,northern,non,trader,married,no,no,24,no,negative,yes,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+21,female,student,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+28,female,private,christian,akan,tertiary,health workers,single,no,no,0,no,no,yes,yes,monthly,yes,yes,3,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+21,female,private,other,akan,shs,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+23,female,private,christian,ga,tertiary,other,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+74,female,staff,christian,akan,tertiary,other,married,no,no,12,24,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+36,female,private,christian,akan,shs,trader,married,no,no,15,21,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+35,female,private,christian,northern,tertiary,other,married,no,no,18,28,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+42,female,private,christian,akan,shs,trader,married,no,no,15,25,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+30,female,private,christian,akan,tertiary,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+34,female,private,christian,akan,jhs,trader,married,no,no,24,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,postpill,no,no,no,normal,no masses palpated
+27,female,private,christian,northern,jhs,trader,married,no,no,12,22,negative,yes,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+31,female,private,christian,akan,shs,trader,married,no,no,14,24,negative,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+21,female,private,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,yes,monthly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+20,female,private,christian,northern,tertiary,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+40,female,dependant,christian,northern,primary,other,married,no,no,23,22,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,postpill,no,no,no,normal,no masses palpated
+25,female,staff,christian,akan,tertiary,teacher,single,no,no,18,19,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+44,female,private,muslim,akan,non,trader,married,no,no,20,18,no,yes,yes,monthly,yes,yes,1,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+62,female,dependant,christian,akan,shs,trader,married,no,yes,24,21,negative,yes,yes,annualy,yes,yes,2,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+24,female,student,christian,ewe,tertiary,other,single,no,no,0,no,no,yes,yes,quarterly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+33,female,private,christian,akan,tertiary,banker,single,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+35,female,dependant,christian,akan,tertiary,teacher,married,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+58,female,private,christian,northern,non,unemployed,divorced,no,no,18,22,no,yes,yes,quarterly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+28,female,staff,christian,northern,tertiary,administrator,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+28,female,private,christian,northern,non,trader,married,no,no,0,27,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+24,female,private,other,ewe,tertiary,unemployed,single,no,no,0,no,no,yes,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast exam
+43,female,private,christian,akan,tertiary,trader,married,no,no,12,32,negative,yes,yes,monthly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+24,female,private,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+36,female,private,christian,northern,tertiary,unemployed,single,no,no,0,no,negative,yes,yes,quarterly,yes,yes,3,cbe,abnormal,no,no,no,no,not applicable,no,no,no,no,cbe,usg,6 months,normal,no lump seen
+44,female,private,christian,akan,shs,trader,married,no,no,15,37,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+31,female,private,muslim,northern,non,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+22,female,student,christian,northern,tertiary,other,single,no,yes,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+34,female,private,christian,ewe,jhs,trader,married,no,no,18,24,no,yes,yes,monthly,yes,yes,3,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+26,female,staff,christian,akan,tertiary,health workers,single,no,no,0,no,no,yes,yes,quarterly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+19,female,student,christian,akan,tertiary,other,single,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+22,female,student,muslim,northern,tertiary,other,single,no,no,0,no,no,yes,yes,quarterly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+30,female,staff,christian,akan,tertiary,other,single,no,no,16,21,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+16,female,private,christian,northern,primary,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+28,female,private,christian,northern,non,trader,married,no,no,36,18,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+25,female,private,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+44,female,private,christian,akan,tertiary,banker,married,no,no,18,30,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+42,female,private,christian,akan,jhs,trader,married,no,no,7,25,negative,yes,yes,quarterly,yes,yes,1,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+69,female,private,muslim,northern,shs,other,single,no,yes,0,30,negative,yes,yes,monthly,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no  masses palpated
+55,female,private,christian,akan,jhs,trader,married,no,no,18,30,no,yes,yes,quarterly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+37,female,private,christian,akan,jhs,trader,married,no,no,18,21,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+49,female,private,christian,akan,primary,trader,single,no,no,24,22,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+72,female,private,other,akan,non,unemployed,widow,no,no,0,20,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+35,female,private,christian,akan,non,unemployed,single,no,no,21,26,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+28,female,private,christian,akan,shs,teacher,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+42,female,dependant,christian,akan,jhs,trader,married,no,no,20,24,negative,yes,yes,quarterly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+21,female,student,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,normal,no  masses palpated
+22,female,private,christian,akan,shs,unemployed,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,abnormal,lump seen in the right breast
+23,female,private,muslim,northern,shs,trader,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+56,female,private,christian,akan,jhs,trader,married,no,no,24,24,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+62,female,private,christian,akan,primary,unemployed,divorced,yes,yes,24,20,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+59,female,private,christian,akan,primary,trader,married,no,no,24,20,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,tiny mass detected in the left breast
+21,female,staff,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no  masses palpated
+45,female,private,christian,akan,shs,trader,married,no,no,0,18,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+52,female,private,christian,akan,shs,trader,married,no,no,14,18,no,yes,yes,monthly,yes,yes,2,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+47,female,private,christian,akan,jhs,trader,single,no,no,0,20,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+73,female,staff,christian,akan,tertiary,other,widow,no,yes,18,25,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+55,female,private,christian,akan,tertiary,teacher,married,no,no,6,30,no,yes,yes,monthly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+18,female,student,christian,northern,non,unemployed,single,yes,yes,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+25,female,private,christian,akan,tertiary,other,single,no,yes,0,no,negative,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+47,female,staff,christian,ewe,tertiary,teacher,married,no,yes,24,no,no,yes,yes,monthly,yes,yes,4,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+27,female,private,christian,ewe,tertiary,other,single,no,no,0,no,negative,yes,yes,quarterly,yes,yes,4,no,not applicable,no,no,no,no,not applicable,no,no,yes,postpill,no,no,no,abnormal,lump palpated at the 7 o'clock region of thw right breast
+65,female,private,christian,akan,primary,unemployed,widow,no,no,18,19,no,yes,yes,monthly,yes,yes,3,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses palpated
+65,female,staff,christian,akan,tertiary,other,married,no,no,12,22,no,yes,yes,monthly,yes,yes,4,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+22,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+65,female,staff,christian,akan,tertiary,other,married,no,no,15,24,no,yes,yes,quarterly,yes,yes,2,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+38,female,private,christian,akan,shs,trader,married,no,no,0,no,negative,yes,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+81,female,private,christian,akan,tertiary,other,widow,no,no,6,26,negative,yes,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+43,female,staff,christian,akan,shs,teacher,married,no,no,18,29,no,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+13,female,dependant,christian,akan,shs,other,single,no,no,0,no,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+19,female,private,muslim,northern,shs,unemployed,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+49,female,private,christian,akan,tertiary,trader,single,no,no,24,20,negative,yes,yes,monthly,yes,yes,4,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,nipple discharge with no lumps or mass
+32,female,private,christian,akan,tertiary,administrator,single,no,no,0,no,negative,yes,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+63,female,staff,christian,northern,primary,other,widow,no,yes,9,21,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+47,female,private,muslim,northern,jhs,trader,married,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,painful swollen of the left breast
+66,female,private,christian,akan,primary,trader,widow,no,no,12,25,no,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+41,female,private,christian,akan,tertiary,teacher,married,no,yes,16,31,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+25,female,private,christian,akan,tertiary,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+30,female,private,christian,akan,tertiary,unemployed,single,no,no,15,29,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+22,female,private,christian,akan,shs,trader,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,postpill,no,no,no,abnormal,nipple discharge with no pain in both breast
+24,female,private,christian,akan,tertiary,trader,single,no,no,0,no,negative,yes,yes,annualy,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+30,female,private,christian,akan,tertiary,teacher,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+49,female,dependant,christian,akan,primary,trader,married,no,no,24,19,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+42,female,private,muslim,northern,primary,trader,married,no,no,18,21,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses palpated
+45,female,staff,christian,akan,tertiary,other,married,no,yes,18,38,negative,yes,yes,monthly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+29,female,staff,christian,akan,tertiary,administrator,single,no,yes,0,no,no,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+53,female,private,muslim,northern,non,trader,married,no,no,22,32,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,nipple discharge with no pain
+37,female,staff,christian,akan,tertiary,teacher,married,yes,yes,24,27,negative,yes,yes,annualy,yes,yes,2,cbe,abnormal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+32,female,private,christian,akan,jhs,other,single,no,no,18,29,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+32,female,private,christian,northern,tertiary,other,single,no,no,0,no,negative,yes,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,lumps seen in both breasts
+43,female,private,christian,akan,tertiary,other,married,no,no,15,29,negative,yes,yes,monthly,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+52,female,private,muslim,northern,non,trader,married,no,no,22,25,no,yes,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+47,female,staff,christian,akan,tertiary,teacher,married,no,no,12,32,negative,yes,yes,monthly,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+74,female,private,christian,akan,primary,trader,married,no,no,18,20,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+28,female,student,christian,northern,tertiary,other,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+20,female,private,christian,ga,tertiary,other,single,no,no,0,no,negative,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,lump palpated at the 5 o'clock region of the right breast
+22,female,student,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+38,female,private,christian,akan,tertiary,teacher,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+23,female,private,christian,akan,shs,trader,married,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,"both breast appear engorged, pain in both breasts"
+66,female,dependant,christian,akan,tertiary,unemployed,married,no,yes,0,no,no,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+69,female,private,christian,akan,tertiary,unemployed,married,no,no,24,17,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+22,female,private,muslim,akan,tertiary,other,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+39,female,private,christian,akan,jhs,trader,single,no,no,18,29,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+35,female,private,christian,northern,tertiary,teacher,single,no,yes,0,no,no,yes,yes,monthly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+69,female,private,christian,akan,jhs,trader,widow,no,no,24,18,negative,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+20,female,private,christian,akan,tertiary,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+31,female,private,christian,akan,jhs,trader,single,no,no,14,18,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,engorged breast in both breasts
+73,female,private,christian,akan,jhs,unemployed,single,no,no,12,23,no,no,no,not applicable,no,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+62,female,private,christian,akan,primary,trader,married,no,no,24,26,no,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+64,female,private,christian,ewe,tertiary,other,widow,no,no,6,26,negative,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+74,female,private,christian,akan,jhs,unemployed,single,no,no,4,18,no,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,lump in both breast and painful to touch
+42,female,private,christian,akan,tertiary,other,married,no,no,24,26,no,yes,yes,annualy,yes,yes,3,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,mammogram,no,abnormal,pains in both breasts
+24,female,private,christian,akan,tertiary,unemployed,single,no,no,0,no,no,yes,no,not applicable,no,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+29,female,private,christian,akan,tertiary,teacher,single,no,no,0,no,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,no,no,no,normal,normal clinical breast examination
+45,female,private,christian,akan,tertiary,administrator,single,no,no,12,41,negative,yes,yes,monthly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no masses found
+22,female,private,christian,ewe,shs,trader,single,no,no,0,no,no,yes,yes,monthly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,2 years,normal,no masses found
+42,female,private,christian,akan,jhs,trader,married,no,no,24,20,no,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no lymph nodes palpated
+24,female,private,christian,akan,shs,unemployed,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses found
+20,female,student,christian,akan,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no
+21,female,private,christian,akan,shs,unemployed,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,abnormal,complains of slight pains on both breast
+40,female,private,christian,akan,jhs,trader,married,no,no,24,26,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lymph nodes palpated
+35,female,private,christian,akan,tertiary,administrator,single,no,no,0,no,no,yes,yes,monthly,yes,yes,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses found
+38,female,private,christian,northern,tertiary,trader,married,no,no,12,27,negative,yes,no,not applicable,no,yes,3,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+22,female,private,christian,akan,shs,trader,single,no,no,0,no,no,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+26,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+23,female,private,christian,northern,tertiary,health workers,single,no,no,0,no,negative,yes,yes,annualy,yes,no,0,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+52,female,private,christian,akan,non,trader,married,no,yes,24,30,negative,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+30,female,student,christian,ewe,tertiary,other,single,no,no,0,no,no,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+20,female,private,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no
+47,female,private,christian,akan,non,trader,married,no,no,18,30,negative,yes,yes,monthly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+67,female,private,christian,akan,non,unemployed,widow,no,no,8,21,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+21,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,emergency pills,no,no,no,normal,normal clinical breast examination
+57,female,staff,christian,akan,tertiary,administrator,divorced,yes,no,18,28,negative,yes,yes,monthly,yes,yes,3,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+66,female,staff,christian,northern,tertiary,other,widow,no,no,18,24,negative,yes,yes,annualy,yes,yes,3,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+54,female,private,christian,ga,jhs,other,married,no,no,30,22,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+64,female,private,muslim,northern,jhs,unemployed,married,yes,no,24,18,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+41,female,private,christian,akan,tertiary,trader,single,no,no,0,no,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+36,female,private,muslim,northern,non,trader,married,no,no,24,22,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+20,female,private,muslim,northern,jhs,trader,single,no,no,0,no,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,abnormal,large sizeable lump palpated in both breast
+29,female,private,christian,northern,shs,trader,married,no,no,22,24,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+26,female,private,christian,northern,jhs,unemployed,single,no,no,0,no,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+25,female,private,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+20,female,student,muslim,northern,tertiary,other,single,no,no,0,no,no,yes,yes,quarterly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no
+21,female,student,christian,akan,tertiary,other,single,no,no,0,no,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+47,female,private,christian,akan,jhs,trader,divorced,no,no,18,24,no,yes,yes,quarterly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,normal,normal clinical breast examination
+64,female,private,christian,akan,primary,trader,married,no,no,18,17,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+54,female,staff,christian,akan,tertiary,other,widow,no,no,7,26,no,yes,yes,monthly,yes,yes,3,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+67,female,private,christian,akan,primary,unemployed,married,no,no,18,22,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+25,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses found
+29,female,private,christian,akan,tertiary,other,married,no,no,18,23,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,5 years,normal,no discharges and no masses palpated
+25,female,private,christian,akan,shs,trader,single,no,no,0,no,no,yes,yes,annualy,yes,yes,1,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,complains of pains and sensational heat around the right areolar
+59,female,private,christian,akan,primary,trader,married,no,no,18,19,no,yes,yes,monthly,yes,no,0,cbe,abnormal,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,complains of abnormal pains frequently in the breast
+63,female,staff,christian,akan,tertiary,other,married,no,no,18,34,no,yes,yes,monthly,yes,yes,4,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no discharges and abnormalities
+34,female,private,christian,akan,tertiary,unemployed,married,no,no,24,24,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no abnormalities
+50,female,private,christian,ewe,tertiary,trader,married,no,no,18,32,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,implant,cbe,no,6 months,normal,no abnormalities
+57,female,private,other,akan,primary,unemployed,divorced,no,no,24,16,negative,yes,no,not applicable,no,yes,0,ultrasound,normal,no,no,no,no,not applicable,no,yes,no,no,no,no,no,abnormal,abnormal right breast
+52,female,private,christian,northern,jhs,trader,married,no,no,24,24,no,yes,yes,annualy,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no abnormalities detected
+33,female,student,christian,ewe,tertiary,teacher,married,no,no,24,30,negative,yes,yes,monthly,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,"both breast are symmetrical, no rash or discharges"
+37,female,student,christian,ewe,tertiary,teacher,single,no,no,0,no,no,yes,yes,quarterly,yes,yes,2,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no discharges and rashes but tiny lump detected which appears painful when pressed
+51,female,private,christian,akan,primary,trader,married,no,no,12,25,no,yes,yes,monthly,yes,yes,3,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,6 months,normal,left breast appears quite longer and heavier than the right breast-no other abnormalities detected
+58,female,private,christian,akan,shs,trader,married,no,no,18,25,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,6 months,normal,no abnormalities detected
+35,female,private,christian,akan,tertiary,other,married,no,no,18,26,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,complains of itches but no nipple discharges
+27,female,private,christian,akan,tertiary,administrator,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no abnormalities detected
+27,female,private,christian,northern,jhs,trader,married,no,no,24,18,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,appears normal but was a tiny lump at the right breast
+39,female,private,christian,akan,tertiary,trader,married,no,no,18,28,no,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,pussy discharge from the right breast
+29,female,private,christian,akan,tertiary,banker,single,no,no,0,no,no,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities detected
+62,female,staff,christian,akan,primary,other,married,no,no,14,33,no,yes,yes,monthly,yes,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no abnormalities detected
+48,female,private,christian,northern,jhs,trader,married,no,no,36,27,no,yes,yes,monthly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,yes,iucd,no,no,no,abnormal,"yellowish nipple discharges in the left breast,rashes and sores at the lower region of both breasts"
+55,female,private,christian,akan,primary,trader,widow,no,yes,18,20,negative,yes,yes,monthly,yes,yes,1,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,5 years,normal,no abnormalities detected
+27,female,private,muslim,northern,shs,trader,single,no,no,0,no,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,5 years,normal,no masses found
+62,female,staff,christian,akan,tertiary,other,widow,no,no,14,28,negative,yes,yes,quarterly,yes,yes,4,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no abnormalities detected
+46,female,staff,christian,akan,tertiary,teacher,widow,no,no,18,32,negative,yes,yes,quarterly,yes,yes,3,mammogram/ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no abnormalities detected
+36,female,private,christian,ga,tertiary,teacher,married,no,no,18,33,negative,yes,yes,monthly,yes,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,normal,no lymph nodes palpated
+30,female,private,muslim,northern,tertiary,unemployed,single,no,no,0,no,negative,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses found
+27,female,private,christian,akan,tertiary,trader,single,no,no,0,no,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities detected
+43,female,private,christian,akan,jhs,trader,married,no,no,24,29,no,yes,yes,monthly,yes,no,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities detected
+17,female,private,christian,akan,shs,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no abnormalities detected
+21,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,yes,post pills,cbe,no,1 year,normal,no abnormalities detected
+37,female,private,christian,akan,jhs,trader,married,no,no,24,25,positive,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,3 years,normal,no discharges and both breasts are everted
+21,female,student,christian,akan,tertiary,other,single,no,no,0,no,negative,yes,yes,quarterly,yes,yes,2,cbe/ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,1 year,abnormal,abnormal cyst on the right breast
+64,female,private,christian,akan,primary,unemployed,divorced,no,no,12,18,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,nipples everted with no dischareges
+34,female,private,christian,akan,jhs,other,single,no,no,18,18,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,abnormal,abnormalities with the skin- rashes containing fluid on the right breast 
+61,female,private,christian,akan,tertiary,teacher,married,no,no,18,30,negative,yes,yes,annualy,yes,yes,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+19,female,student,christian,northern,tertiary,other,single,yes,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+23,female,private,christian,akan,tertiary,other,single,no,no,0,no,no,yes,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+25,female,private,christian,northern,tertiary,other,single,yes,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+46,female,private,christian,northern,tertiary,teacher,married,yes,no,6,29,negative,yes,yes,not applicable,no,no,0,mammogram,normal,yes,benign,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+55,female,private,christian,akan,tertiary,other,divorced,no,no,24,31,no,yes,yes,quarterly,yes,yes,4,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+68,female,dependant,christian,akan,tertiary,other,married,no,no,7,27,no,yes,yes,monthly,yes,yes,3,mammogram,normal,no,no,no,no,not applicable,no,yes,no,no,no,no,no,normal,normal breast
+49,female,private,muslim,northern,primary,trader,married,no,no,16,27,negative,yes,yes,quarterly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+65,female,private,christian,akan,tertiary,other,married,no,no,0,27,negative,yes,yes,quarterly,yes,yes,3,mammogram,normal,yes,no,no,no,not applicable,no,no,no,no,mammogram,mammogram,2 years,normal,normal breast
+45,female,private,muslim,northern,jhs,unemployed,widow,no,no,24,22,negative,yes,yes,monthly,yes,yes,1,ultrasound,abnormal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+14,male,dependant,christian,northern,jhs,unemployed,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no masses palpated
+22,female,private,muslim,northern,tertiary,unemployed,single,no,no,0,no,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+33,female,private,christian,akan,jhs,trader,single,no,no,0,no,negative,yes,yes,monthly,yes,yes,1,ultrasound,abnormal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+72,female,private,christian,northern,non,unemployed,widow,no,no,18,25,no,yes,no,not applicable,no,yes,1,ultrasound,abnormal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+67,female,private,christian,northern,non,unemployed,widow,no,no,24,19,no,yes,yes,quarterly,yes,yes,1,ultrasound,normal,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,normal,normal breast
+78,female,private,christian,akan,tertiary,unemployed,married,no,no,0,22,negative,yes,yes,monthly,yes,yes,4,mammogram,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+41,female,private,muslim,northern,primary,trader,married,no,no,24,22,negative,yes,no,not applicable,no,yes,4,no,normal,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no mass or lump palpated
+18,female,private,christian,akan,shs,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+27,female,private,christian,akan,tertiary,banker,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+46,female,private,christian,akan,primary,trader,married,no,no,0,15,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal breast
+30,female,private,christian,northern,tertiary,other,married,yes,no,18,no,no,yes,yes,monthly,yes,no,0,mammogram,normal,no,no,no,no,not applicable,no,no,yes,family planning,cbe,no,3 years,normal,normal breast
+44,female,private,christian,akan,shs,health workers,single,no,no,14,21,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal breast
+42,female,private,christian,akan,jhs,trader,married,no,no,18,35,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,lumps palpated
+54,female,private,christian,akan,primary,trader,divorced,no,no,18,27,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,abnormal,skin rashes under both breasy
+53,female,private,christian,akan,primary,trader,married,no,no,0,18,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,abnormal,a hard mass noted in the mid left breast
+26,female,private,other,northern,tertiary,other,single,no,no,0,no,negative,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,abnormal,tiny lump noticed in the left upper breast
+55,female,private,christian,akan,primary,trader,divorced,no,no,24,24,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+61,female,private,christian,akan,jhs,trader,single,no,no,24,25,no,yes,yes,quarterly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+69,female,private,christian,akan,jhs,trader,married,no,no,24,24,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no mass or lump palpated
+19,female,private,christian,akan,shs,other,single,no,no,0,no,negative,no,no,not applicable,no,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+18,female,private,other,akan,shs,unemployed,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no mass or lump palpated
+25,female,private,christian,akan,jhs,trader,married,no,no,20,23,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+43,female,private,christian,akan,jhs,trader,married,no,no,24,20,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+47,female,private,christian,akan,tertiary,trader,married,no,no,24,26,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+19,female,private,christian,akan,jhs,unemployed,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+56,female,private,christian,akan,jhs,trader,married,no,no,24,18,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+23,female,private,christian,northern,primary,trader,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+50,female,private,christian,akan,jhs,trader,married,no,no,18,27,no,yes,yes,quarterly,yes,yes,1,cbe,abnormal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+30,female,private,christian,akan,shs,trader,single,no,no,18,28,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+33,female,private,christian,akan,shs,trader,single,no,no,24,30,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+65,female,private,christian,akan,jhs,unemployed,single,no,no,15,16,negative,yes,yes,quarterly,yes,yes,3,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+39,female,private,christian,akan,shs,trader,married,no,no,24,25,negative,yes,yes,monthly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+31,female,private,christian,akan,tertiary,teacher,married,no,no,0,30,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+45,female,private,christian,akan,jhs,trader,married,no,no,24,34,no,yes,yes,annualy,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+23,female,private,christian,northern,shs,trader,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+56,female,private,christian,akan,jhs,trader,married,no,no,24,20,positive,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+41,female,private,christian,akan,jhs,trader,single,no,no,0,no,negative,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+33,female,private,christian,northern,primary,trader,single,no,no,12,20,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,injectable,cbe,no,no,abnormal,lumps seen in both breasts
+51,female,private,other,akan,jhs,trader,married,no,no,24,21,no,yes,yes,quarterly,yes,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+58,female,private,christian,akan,primary,trader,married,no,yes,12,21,positive,yes,yes,monthly,yes,yes,10,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+47,female,private,christian,akan,jhs,trader,married,no,no,18,23,negative,no,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+34,female,private,christian,akan,jhs,trader,single,no,no,14,21,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+35,female,private,muslim,northern,primary,trader,married,no,no,24,28,no,no,no,not applicable,no,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+36,female,private,christian,akan,primary,trader,single,no,no,18,19,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+19,female,private,christian,akan,shs,other,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no mass or lump palpated
+22,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+50,female,private,christian,akan,primary,trader,divorced,no,no,24,27,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no mass or lump palpated
+40,female,private,christian,akan,jhs,trader,married,no,no,12,21,negative,yes,no,not applicable,no,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+32,female,private,christian,akan,jhs,trader,single,no,no,15,28,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no mass or lump palpated
+70,female,private,christian,akan,jhs,other,divorced,no,no,12,25,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+55,female,private,christian,akan,primary,other,widow,no,no,15,17,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+19,female,private,christian,akan,jhs,unemployed,single,no,no,14,18,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+43,female,private,christian,akan,tertiary,teacher,married,yes,no,12,29,negative,no,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+54,female,private,christian,akan,primary,trader,divorced,no,no,24,17,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+45,female,private,christian,akan,jhs,trader,married,no,no,24,30,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+48,female,private,christian,akan,jhs,trader,married,no,no,3,25,no,yes,no,not applicable,no,yes,5,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+62,female,private,christian,akan,jhs,trader,widow,no,no,24,25,no,no,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+64,female,private,christian,akan,primary,other,single,no,no,24,17,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+63,female,private,christian,akan,primary,trader,widow,no,no,12,18,no,yes,yes,monthly,yes,yes,5,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+42,female,private,christian,akan,shs,trader,married,no,no,24,27,no,no,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,yes,no,no,cbe,no,no,abnormal,nipple rash
+51,male,private,christian,akan,primary,other,married,no,no,0,25,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+25,female,private,christian,akan,shs,trader,single,yes,no,0,24,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+39,female,private,christian,akan,jhs,trader,married,no,no,24,28,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,injectable,cbe,no,no,normal,no mass or lump palpated
+28,female,private,christian,akan,shs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,lydia,cbe,no,no,normal,no mass or lump palpated
+23,female,private,christian,ga,tertiary,unemployed,single,no,no,0,no,negative,yes,yes,quarterly,yes,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,yes,levon 2,cbe,no,6 months,normal,no mass or lump palpated
+35,female,private,christian,akan,shs,trader,married,no,no,24,24,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+42,female,private,christian,akan,tertiary,banker,married,yes,no,18,30,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,6 months,normal,no mass or lump palpated
+50,female,private,christian,akan,primary,trader,single,no,no,14,19,no,yes,yes,quarterly,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+61,female,private,christian,akan,jhs,unemployed,divorced,no,no,24,35,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+33,female,private,christian,northern,jhs,trader,married,no,no,18,29,no,yes,no,not applicable,no,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+31,female,private,muslim,northern,tertiary,other,married,no,no,24,24,no,yes,yes,monthly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+41,female,private,christian,akan,jhs,trader,married,no,no,24,20,negative,no,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+18,female,private,christian,akan,shs,other,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+37,female,private,muslim,northern,jhs,trader,single,no,no,12,15,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no mass or lump palpated
+22,female,student,christian,northern,tertiary,other,single,yes,no,0,no,negative,no,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+41,female,private,christian,ewe,shs,trader,married,yes,no,24,34,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities detected
+48,female,private,christian,akan,jhs,trader,married,no,no,12,36,negative,yes,yes,quarterly,yes,yes,0,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump found
+28,female,private,christian,akan,tertiary,teacher,single,no,no,0,no,negative,yes,yes,annualy,yes,yes,6,cbe/ultrasound,normal,yes,benign,lumpectomy,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities detected
+76,female,private,other,akan,non,other,widow,no,no,12,no,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lumps seen
+20,female,private,christian,northern,shs,unemployed,single,no,no,0,no,no,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,postpill,cbe,no,6 months,abnormal,tiny lump seen in the left upper breast
+37,female,private,christian,akan,shs,trader,married,no,no,24,30,negative,yes,yes,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,usg,no,abnormal,hard mass seen at the upper right breast
+62,female,private,christian,northern,jhs,other,divorced,no,no,12,20,no,yes,no,not applicable,no,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+21,female,private,christian,akan,shs,trader,single,no,no,0,no,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,yes,postpill,cbe,no,no,normal,normal clinical breast examination
+22,female,private,christian,akan,shs,unemployed,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+56,female,private,christian,northern,jhs,trader,married,no,no,24,23,no,no,no,not applicable,no,yes,2,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+30,female,private,christian,akan,jhs,trader,married,no,no,18,17,no,yes,no,not applicable,no,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+20,female,private,christian,akan,tertiary,other,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,injection,cbe,no,no,normal,normal clinical breast examination
+34,female,private,other,akan,jhs,trader,single,no,no,12,19,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+22,female,private,christian,akan,jhs,trader,single,no,no,24,21,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+80,female,private,christian,akan,non,unemployed,widow,no,no,24,24,negative,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+23,female,private,christian,akan,jhs,trader,single,no,no,9,15,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+23,female,private,christian,akan,shs,trader,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,postpills,cbe,no,no,normal,no lump seen
+48,female,private,christian,ga,primary,unemployed,widow,no,no,24,14,negative,yes,yes,quarterly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses found
+65,female,private,christian,akan,primary,trader,married,no,no,24,20,negative,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+23,female,private,christian,northern,jhs,trader,single,no,no,12,18,no,yes,no,not applicable,no,yes,2,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses found
+41,female,private,christian,akan,tertiary,banker,married,no,no,14,30,negative,yes,yes,quarterly,yes,yes,8,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses found
+65,female,private,christian,akan,primary,other,single,no,no,24,18,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+30,female,private,christian,akan,shs,trader,married,no,no,18,24,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no masses found
+47,female,private,christian,akan,jhs,trader,married,no,no,24,19,negative,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no lump seen
+20,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+70,female,private,christian,akan,non,trader,single,no,no,6,25,no,yes,yes,quarterly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+22,female,private,christian,northern,primary,trader,single,no,no,0,no,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+47,female,private,christian,akan,shs,trader,single,no,no,0,no,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+53,female,private,christian,akan,primary,trader,divorced,no,no,18,11,negative,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+32,female,private,christian,akan,jhs,trader,single,no,no,0,no,no,yes,yes,quarterly,yes,yes,1,cbe,normal,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+22,female,private,christian,ewe,jhs,trader,single,no,no,12,18,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+47,female,private,christian,akan,jhs,trader,married,no,no,15,27,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+38,female,private,christian,akan,jhs,trader,married,no,no,24,20,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+50,female,private,christian,akan,primary,trader,married,no,no,24,29,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+50,female,private,christian,akan,primary,trader,married,no,no,24,22,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+45,female,private,christian,akan,primary,other,single,no,no,24,16,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+22,female,private,christian,northern,shs,trader,single,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+48,female,private,christian,akan,jhs,trader,married,no,no,24,22,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+49,female,private,christian,akan,non,trader,married,no,no,18,18,negative,yes,yes,annualy,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+35,female,private,christian,northern,shs,trader,married,no,no,24,19,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+32,female,private,christian,akan,jhs,trader,single,no,no,24,18,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+64,female,dependant,christian,akan,jhs,trader,married,no,no,24,20,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,normal clinical breast examination
+54,female,private,christian,akan,primary,trader,widow,no,no,18,18,no,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+58,female,private,christian,akan,jhs,unemployed,single,no,no,24,16,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,normal clinical breast examination
+32,female,private,christian,akan,jhs,trader,single,no,no,12,17,negative,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,client lost her baby 2 years ago(white discharges from the nipple) no other abnormalities found
+24,female,private,christian,akan,shs,trader,single,no,no,0,no,negative,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities detected
+23,female,private,christian,ewe,shs,trader,single,no,no,0,no,negative,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities detected
+21,female,private,christian,akan,shs,trader,single,no,no,0,no,no,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no abnormalities detected
+19,female,private,christian,akan,jhs,trader,single,no,no,12,14,no,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,injection,cbe,no,no,normal,normal clinical breast examination
+43,female,private,christian,akan,jhs,trader,married,no,no,12,16,negative,yes,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,yes,tablets,cbe,no,no,normal,no lump seen
+25,female,private,other,northern,shs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+43,female,private,christian,akan,jhs,trader,single,no,no,24,30,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+42,female,private,christian,akan,jhs,trader,married,no,no,24,25,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+47,female,private,christian,akan,primary,trader,married,no,no,24,17,negative,no,no,not applicable,no,yes,1,no,not applicable,no,no,no,no,not applicable,no,no,no,no,cbe,no,no,normal,no lump seen
+42,female,private,christian,northern,jhs,trader,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no
+19,female,private,muslim,northern,shs,unemployed,single,no,no,0,no,no,no,no,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no
+24,female,private,muslim,akan,tertiary,health workers,single,no,no,0,no,negative,no,yes,not applicable,no,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no
+75,female,private,christian,akan,primary,unemployed,single,no,no,24,20,negative,yes,yes,quarterly,yes,no,0,no,not applicable,no,no,no,no,not applicable,no,no,no,no,no,no,no,normal,no
