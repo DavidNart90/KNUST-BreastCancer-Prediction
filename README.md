@@ -26,7 +26,7 @@ Breast cancer stands as one of the most diagnosed cancers worldwide. Early detec
 
 1. Clone this repository.
    ```
-   git clone [repository-link]
+   git clone https://github.com/DavidNart90/KNUST-BreastCancer-Prediction.git
    ```
 2. Navigate to the directory.
    ```
