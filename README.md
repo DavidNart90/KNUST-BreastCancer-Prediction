@@ -1,6 +1,6 @@
-# Breast Cancer Prediction at KNUST Hospital
+# Breast Cancer Prediction at Oforikrom Municipality, Ghana
 ---
-This repository contains the resources and codebase for a research project aimed at predicting breast cancer cases using data from the KNUST hospital.
+This repository contains the resources and codebase for a research project aimed at predicting breast cancer cases using data from the Oforikrom Municipality, Ghana.
 
 ## Overview
 
